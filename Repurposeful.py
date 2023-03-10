@@ -4,6 +4,7 @@
 
 ## Install Libraries
 import streamlit as st
+import rembg
 from rembg import remove
 from PIL import Image
 import base64
