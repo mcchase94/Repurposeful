@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[12]:
-
 
 ## Install Libraries
 import streamlit as st
@@ -45,9 +43,6 @@ if my_upload is not None:
     fix_image(upload=my_upload)
 else:
     fix_image("./camel.jpg")
-
-
-# In[ ]:
 
 
 
